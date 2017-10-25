@@ -10,6 +10,8 @@ Please create new php page from given mockup. Just a single landing page.
 	https://github.com/faridefendi58/frontend-test/tree/master/assets  
 1. You should use the same fonts as the mockup needed. For example this section title (http://i.prntscr.com/96t7lWY_RNSAP_8YKbd1hw.png) 
 	must be Montserrat-Bold. Please check our live page version (https://www.niagahoster.co.id) for the detail fonts style.
+1. Please don't put a hardcode value of the price (http://i.prntscr.com/nuCmy2U3Trm2ip7wimzDXA.png). 
+	You can store the price value on database or json data, so the price will be dynamically.
 1. Finally, please give us your page on both preview url and link of your code repository.
 	
 Note : if you are familiar with twig, using twig on creating your preview page is much better.
